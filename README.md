@@ -1,4 +1,4 @@
-- Civil engineering student at The Ohio State University
+- Civil engineer & hobby developer
 
 <!---
 Chhris/Chhris is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
